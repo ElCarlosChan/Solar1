@@ -1,0 +1,7 @@
+{
+  "name": "SolarCheck NOM-001",
+  "description": "Asistente experto en cumplimiento normativo para sistemas fotovoltaicos basado en la NOM-001-SEDE-2012 de México. Permite análisis de imágenes y gestión de listas de verificación.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
